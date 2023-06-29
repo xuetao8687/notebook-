@@ -1,0 +1,14 @@
+sphinx
+myst-nb
+jupytext
+sphinx-autobuild
+sphinx_book_theme
+sphinx_rtd_theme
+sphinx-tabs
+sphinx-panels
+sphinx-copybutton
+sphinx-togglebutton
+sphinx-autodoc-typehints
+sphinxcontrib-mermaid
+sphinxcontrib-plantuml
+sphinxcontrib-bibtex

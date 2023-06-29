@@ -1,0 +1,22 @@
+音频测试
+========
+
+.. raw:: html
+
+   <video  width="100%" height="100%" src="//gslb.miaopai.com/stream/PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__.mp4?mpflag=64&amp;vend=1&amp;os=3&amp;partner=1&amp;platform=2&amp;cookie_id=&amp;refer=miaopai&amp;scid=PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__ " controls="controls">
+
+您的浏览器不支持 video 标签。
+
+.. raw:: html
+
+   </video>
+
+
+源代码
+~~~~~~
+
+.. code:: html
+
+    <video  width="100%" height="100%" src="//gslb.miaopai.com/stream/PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__.mp4?mpflag=64&amp;vend=1&amp;os=3&amp;partner=1&amp;platform=2&amp;cookie_id=&amp;refer=miaopai&amp;scid=PAEyMDoxMSB9hV6BVT1l5SHT-sMVVRVgHlL7bA__ " controls="controls">
+    您的浏览器不支持 video 标签。
+    </video>

@@ -1,0 +1,35 @@
+实用工具
+========
+
+开发者工具箱
+~~~~~~~~~~~~
+
+-  `在线工具 <http://tool.oschina.net/>`__ - 开源中国社区
+-  `在线工具 <https://tool.lu/>`__ - 程序员的工具箱
+-  `JSON在线解析及格式化验证 <http://www.json.cn/>`__ - Json.cn
+-  `MD5在线加密/解密/破解 <http://tool.chinaz.com/Tools/MD5.aspx>`__ -
+   站长工具
+-  `UrlEncode编码/UrlDecode解码 <http://tool.chinaz.com/Tools/URLEncode.aspx>`__
+   - 站长工具
+-  `Grunt: JavaScript 世界的构建工具 <http://www.gruntjs.net/>`__ -
+   Grunt中文网
+-  `RGB颜色值与十六进制颜色码转换工具 <http://www.sioe.cn/yingyong/yanse-rgb-16/>`__
+
+文档编辑
+~~~~~~~~
+
+-  `在线文本比较工具 <http://wenbenbijiao.renrensousuo.com/>`__
+-  `免费在线文件转换器 <https://cn.office-converter.com/>`__ -
+   免费在线转换视频，在线图形转换，在线文档转换和在线压缩格式转换
+-  `免费解决所有PDF问题 <https://tools.pdf24.org/zh/>`__ - PDF24 Tools
+
+图片编辑
+~~~~~~~~
+
+-  `图片压缩，在线图片压缩 <https://www.tiomg.org/>`__ -
+   GIF压缩，PNG压缩，JPG，JPEG压缩，最大支持30M
+   [`Others <https://blog.csdn.net/qq_41761551/article/details/81026184>`__\ ]
+-  `看图网 <http://www.webps.cn/>`__ -
+   在线PS，照片编辑，闪图制作，在线美图，在线拼图，GIF制作
+-  `图片放大不失真 <http://a-sharper-scaling.com>`__ - High Quality
+   Image Upscaling Freeware
